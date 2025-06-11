@@ -4,6 +4,7 @@ import AboutPage from './pages/AboutPage'
 import CoursesPage from './pages/CoursesPage'
 import ContactPage from './pages/ContactPage'
 import AdmissionPage from './pages/AdmissionPage'
+import ChatbotComponent from './components/Chatbot/ChatbotComponents'
 
 function App() {
  
@@ -19,7 +20,7 @@ function App() {
       <Route path='/contactpage' element={<ContactPage/>}/>
       <Route path='/admissionpage' element={<AdmissionPage/>}/>
     </Routes>
-    
+    <ChatbotComponent/>
     </BrowserRouter>
 
   </div>
