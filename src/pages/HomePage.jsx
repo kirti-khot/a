@@ -1,7 +1,5 @@
 import React from "react";
-import './style.css'
-import Header from "../components/Header/Header";
-import Footer from "../components/Footer/Footer";
+
 
 
 
@@ -9,7 +7,7 @@ const HomePage = () => {
     return (
         
         <div className="content">
-            <Header/>
+            
            
                     <div className="page-container">
                         <div className="college-image">
@@ -45,7 +43,7 @@ const HomePage = () => {
                         <a href="CoursesPage" className="demo1">Explore Courses</a>
                     
                     </div>
-            <Footer/>
+            
         </div>
     )
 }
