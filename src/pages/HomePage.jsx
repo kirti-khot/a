@@ -14,7 +14,7 @@ const HomePage = () => {
                             <div className="front-image">
                                 <h1><b>Welcome to Vivekanand College!</b></h1>
                                 <p>Your journey to excellence starts here.</p>
-                                <a href="AdmissionPage" id="demo1"><u>Apply Now!</u></a>
+                                <a href="AdmissionPage" id="main1"><u>Apply Now!</u></a>
                             </div>
                         </div>
                         <p>**Vivekanand College is a premier educational institution dedicated to fostering academic excellence, 
