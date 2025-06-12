@@ -16,7 +16,7 @@ const HomePage = () => {
                         <div className="college-image">
                             <img src="/Images/college.jpg" alt="VCK" className="college-image"></img>
                             <div className="front-image">
-                                <h1><b>Welcome to Vivekanand College!</b></h1>
+                                <h1>Welcome to Vivekanand College!</h1>
                                 <p>Your journey to excellence starts here.</p>
                                 <a href="AdmissionPage" id="main1"><u>Apply Now!</u></a>
                             </div>
