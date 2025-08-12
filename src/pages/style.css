@@ -83,6 +83,29 @@
     text-indent: initial;
 }
 
+@media (max-width:768px){
+    .container{
+        margin 15px auto;
+        padding: 15px;
+    }
+.page-container{
+    height: 250px;
+}
+.front-image h1{
+    font-size: 2.2em;
+}
+.front-image p{
+    font-size: 1em;
+}
+.page1-container{
+    height:180px;
+}
+.page2-container{
+    height: 180px;
+}
+}
+
+
 
 
 
