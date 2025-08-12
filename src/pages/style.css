@@ -85,23 +85,23 @@
 
 @media (max-width:768px){
     .container{
-        margin 15px auto;
+        margin 5px auto;
         padding: 15px;
     }
 .page-container{
-    height: 250px;
+    height: 350px;
 }
 .front-image h1{
-    font-size: 2.2em;
+    font-size: 1.5em;
 }
 .front-image p{
     font-size: 1em;
 }
 .page1-container{
-    height:150px;
+    height:100px;
 }
 .page2-container{
-    height: 150px;
+    height: 100px;
 }
 }
 
